@@ -52,3 +52,27 @@ function paradies8(){
    function closethis8(){
     document.getElementById("vieta8").style.display="none"
 }
+function paradies9(){
+    document.getElementById("vieta9").style.display="block"
+   }
+   function closethis9(){
+    document.getElementById("vieta9").style.display="none"
+}
+function paradies10(){
+    document.getElementById("vieta10").style.display="block"
+   }
+   function closethis10(){
+    document.getElementById("vieta10").style.display="none"
+}
+function paradies11(){
+    document.getElementById("vieta11").style.display="block"
+   }
+   function closethis11(){
+    document.getElementById("vieta11").style.display="none"
+}
+function paradies12(){
+    document.getElementById("vieta12").style.display="block"
+   }
+   function closethis12(){
+    document.getElementById("vieta12").style.display="none"
+}
